@@ -1,5 +1,5 @@
 /* 
-Google Fonts Imports
+    Google Fonts Imports
 
 // <weight>: Use a value from 200 to 700
 // <uniquifier>: Use a unique and descriptive class name
@@ -35,9 +35,6 @@ Google Fonts Imports
 }
 
 */
-/* ------------------------------
-   Base Styles & Resets
------------------------------- */
 * {
   margin: 0;
   padding: 0;
@@ -55,33 +52,16 @@ body {
   color: #333;
 }
 
-/* ------------------------------
-   Accessibility Helpers
------------------------------- */
-.skip-link {
-  position: absolute;
-  top: -40px;
-  left: 0;
-  background: #000;
-  color: #fff;
-  padding: 8px;
-  z-index: 100;
-}
-
-.skip-link:focus {
-  top: 0;
-}
-
-/* ------------------------------
-   Header & Navigation
------------------------------- */
 header {
   background-color: #004466;
-  color: #fff;
+  color: #ffffff;
   padding: 1rem;
 }
-
 header h1 {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
   margin-bottom: 0.5rem;
 }
 
@@ -92,7 +72,7 @@ nav ul {
 }
 
 nav a {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -102,9 +82,6 @@ nav a:focus {
   text-decoration: underline;
 }
 
-/* ------------------------------
-   Main Content
------------------------------- */
 main {
   padding: 2rem;
 }
@@ -115,15 +92,12 @@ section {
 
 h2 {
   margin-bottom: 0.5rem;
-  color: #004466;
+  color: #0d5e87;
 }
 
-/* ------------------------------
-   Footer
------------------------------- */
 footer {
   background-color: #222;
-  color: #ddd;
+  color: #ffffff;
   padding: 1rem;
   text-align: center;
 }
@@ -137,7 +111,7 @@ footer nav ul {
 }
 
 footer nav a {
-  color: #ddd;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -145,9 +119,6 @@ footer nav a:hover {
   text-decoration: underline;
 }
 
-/* ------------------------------
-   Responsive Design
------------------------------- */
 @media (max-width: 600px) {
   nav ul {
     flex-direction: column;

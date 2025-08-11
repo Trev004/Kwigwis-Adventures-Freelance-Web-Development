@@ -1,5 +1,5 @@
 /* 
-Google Fonts Imports
+    Google Fonts Imports
 
 // <weight>: Use a value from 200 to 700
 // <uniquifier>: Use a unique and descriptive class name
@@ -36,9 +36,22 @@ Google Fonts Imports
 
 */
 
-/* ------------------------------
-   Base Styles & Resets
------------------------------- */
+// 
+//  SCSS Variables
+// 
+
+$Dark-Header: #004466;
+$Background-Color: #f9f9f9;
+$Main-Text-Color: #333;
+$Important-Text-Color: #0d5e87;
+$Text-Contrast-Color: #ffffff;
+$Footer-Background: #222;
+$Footer-Text-Color: #ddd;
+
+// 
+//  Base Styles & Resets
+// 
+
 * {
     margin: 0;
     padding: 0;
@@ -52,39 +65,31 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: $Background-Color;
+    color: $Main-Text-Color;
 }
 
-/* ------------------------------
-   Accessibility Helpers
------------------------------- */
-.skip-link {
-    position: absolute;
-    top: -40px;
-    left: 0;
-    background: #000;
-    color: #fff;
-    padding: 8px;
-    z-index: 100;
-}
+// 
+//  Accessibility Helpers
+// 
 
-.skip-link:focus {
-    top: 0;
-}
+// 
+//  Header & Navigation
+//
 
-/* ------------------------------
-   Header & Navigation
------------------------------- */
 header {
-    background-color: #004466;
-    color: #fff;
+    background-color: $Dark-Header;
+    color: $Text-Contrast-Color;
     padding: 1rem;
+    h1 {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        margin-bottom: 0.5rem;
+    }
 }
 
-header h1 {
-    margin-bottom: 0.5rem;
-}
 
 nav ul {
     list-style: none;
@@ -93,7 +98,7 @@ nav ul {
 }
 
 nav a {
-    color: #fff;
+    color: $Text-Contrast-Color;
     text-decoration: none;
     font-weight: bold;
 }
@@ -103,9 +108,10 @@ nav a:focus {
     text-decoration: underline;
 }
 
-/* ------------------------------
-   Main Content
------------------------------- */
+//
+// Main Content
+//
+
 main {
     padding: 2rem;
 }
@@ -116,15 +122,16 @@ section {
 
 h2 {
     margin-bottom: 0.5rem;
-    color: #004466;
+    color: $Important-Text-Color;
 }
 
-/* ------------------------------
-   Footer
------------------------------- */
+// 
+// Footer
+// 
+
 footer {
-    background-color: #222;
-    color: #ddd;
+    background-color: $Footer-Background;
+    color: $Text-Contrast-Color;
     padding: 1rem;
     text-align: center;
 }
@@ -138,7 +145,7 @@ footer nav ul {
 }
 
 footer nav a {
-    color: #ddd;
+    color: $Text-Contrast-Color;
     text-decoration: none;
 }
 
@@ -146,9 +153,9 @@ footer nav a:hover {
     text-decoration: underline;
 }
 
-/* ------------------------------
-   Responsive Design
------------------------------- */
+// 
+// Responsive Styles
+// 
 @media (max-width: 600px) {
     nav ul {
         flex-direction: column;
