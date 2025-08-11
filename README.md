@@ -14,3 +14,7 @@ TODO:
         - Hero/banner image
     - use [Bootstrap Icons(?)](https://icons.getbootstrap.com/)
     - [Google Fonts](https://fonts.google.com/) for fonts
+        - Oswald (Header/Important Text)
+        - Roboto (General?)
+        - Montserrat (Fancy Text?)
+        - [Selection used](https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,100..900;1,100..900|Oswald:wght@200..700|Roboto:ital,wght@0,100..900;1,100..900)
