@@ -58,11 +58,6 @@ $Footer-Text-Color: #ddd;
     box-sizing: border-box;
 }
 
-html {
-    font-size: 16px;
-    line-height: 1.5;
-}
-
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: $Background-Color;
@@ -79,19 +74,30 @@ body {
 
 header {
     background-color: $Dark-Header;
-    color: $Text-Contrast-Color;
     padding: 1rem;
-    h1 {
-        font-family: "Oswald", sans-serif;
-        font-optical-sizing: auto;
-        font-weight: 500;
-        font-style: normal;
-        margin-bottom: 0.5rem;
-    }
-    nav{
-        width: 40%;
-        max-width: 90rem;
-        margin: 0 auto;
+
+    // nav{
+    //     width: 40%;
+    //     max-width: 90rem;
+    //     margin: 0 auto;
+    // }
+    .custom-navbar {
+        .nav-link {
+            color: $Text-Contrast-Color;
+            font-family: "Oswald", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-size: 1.75rem;
+            color: $Text-Contrast-Color;
+        }
+    
+        .navbar-toggler {
+            border-color: $Text-Contrast-Color;
+        
+            .navbar-toggler-icon {
+                color: $Text-Contrast-Color;
+            }
+        }
     }
 }
 
@@ -118,7 +124,7 @@ nav {
 
 main {
     padding: 2rem 10rem 2rem 0;
-    width: 40%;
+    width: 50%;
     max-width: 90rem;
     margin: 0 auto;
 }
