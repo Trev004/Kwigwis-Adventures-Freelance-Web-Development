@@ -75,12 +75,6 @@ body {
 header {
     background-color: $Dark-Header;
     padding: 1rem;
-
-    // nav{
-    //     width: 40%;
-    //     max-width: 90rem;
-    //     margin: 0 auto;
-    // }
     .custom-navbar {
         .nav-link {
             color: $Text-Contrast-Color;
@@ -88,6 +82,7 @@ header {
             font-optical-sizing: auto;
             font-weight: 500;
             font-size: 1.75rem;
+            display: contents;
         }
     
         .navbar-toggler {
@@ -103,44 +98,44 @@ header {
         padding: 0.5rem;
 
         .toggler-icon {
-          display: block;
-          width: 25px;
-          height: 3px;
-          background-color: $Text-Contrast-Color;
-          margin: 5px 0;
-          transition: transform 0.45s cubic-bezier(0.68, -0.55, 0.27, 1.55), opacity 0.3s ease;
+            display: block;
+            width: 25px;
+            height: 3px;
+            background-color: $Text-Contrast-Color;
+            margin: 5px 0;
+            transition: transform 0.45s cubic-bezier(0.68, -0.55, 0.27, 1.55), opacity 0.3s ease;
         }
     
         // Animate when navbar is expanded
         &[aria-expanded="true"] {
-          .toggler-icon:nth-child(1) {
-            transform: translateY(8px) rotate(45deg);
-          }
-          .toggler-icon:nth-child(2) {
-            opacity: 0;
-          }
-          .toggler-icon:nth-child(3) {
-            transform: translateY(-8px) rotate(-45deg);
-          }
+            .toggler-icon:nth-child(1) {
+                transform: translateY(8px) rotate(45deg);
+            }
+            .toggler-icon:nth-child(2) {
+                opacity: 0;
+            }
+            .toggler-icon:nth-child(3) {
+                transform: translateY(-8px) rotate(-45deg);
+            }
         }
     }
 }
 
 nav {
     ul {
-    list-style: none;
-    display: flex;
-    gap: 1rem;
+        list-style: none;
+        display: flex;
+        gap: 1rem;
     }
 
     a {
-    color: $Text-Contrast-Color;
-    text-decoration: none;
-    font-weight: bold;
+        color: $Text-Contrast-Color;
+        text-decoration: none;
+        font-weight: bold;
     }
     
     a:hover,a:focus {
-    text-decoration: underline;
+        text-decoration: underline;
     }
 }
 //
@@ -202,14 +197,15 @@ footer {
 
     .navbar-nav {
         align-items: end;
+        padding-top: 2rem;
+
+        .nav-item{
+            margin-bottom: 1rem;
+        }
     }
 
     nav ul {
         flex-direction: column;
         align-items: center;
-    }
-
-    .custom-navbar .nav-link {
-        font-size: 1.5rem;
     }
 }
