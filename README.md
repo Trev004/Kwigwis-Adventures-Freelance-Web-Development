@@ -2,7 +2,7 @@
 Freelance web development project for the Smiths. A fishing charter website.
 
 TODO:
-- Add other pages (about us, gallery)
+- Add other pages (about us, gallery (*maybe* a dedicated contact page too?))
     - About Us/Boat will have info about the craft
     - Gallery will have photos (carousel?) of previous fishing trips
 - Style the site
