@@ -95,7 +95,6 @@ header {
     }
 }
 
-
 nav ul {
     list-style: none;
     display: flex;
@@ -142,23 +141,23 @@ footer {
     color: $Text-Contrast-Color;
     padding: 1rem;
     text-align: center;
-}
 
-footer nav ul {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    list-style: none;
-    margin-top: 0.5rem;
-}
-
-footer nav a {
-    color: $Text-Contrast-Color;
-    text-decoration: none;
-}
-
-footer nav a:hover {
-    text-decoration: underline;
+    nav{
+        ul {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            list-style: none;
+            margin-top: 0.5rem;
+        }
+        a {
+            color: $Text-Contrast-Color;
+            text-decoration: none;
+        }
+        a:hover{
+            text-decoration: underline;
+        }
+    }
 }
 
 // 
