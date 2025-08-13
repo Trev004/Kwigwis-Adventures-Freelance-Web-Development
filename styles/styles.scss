@@ -88,6 +88,11 @@ header {
         font-style: normal;
         margin-bottom: 0.5rem;
     }
+    nav{
+        width: 40%;
+        max-width: 90rem;
+        margin: 0 auto;
+    }
 }
 
 
@@ -113,8 +118,9 @@ nav a:focus {
 //
 
 main {
-    padding: 2rem;
-    max-width: 800px;
+    padding: 2rem 10rem 2rem 0;
+    width: 40%;
+    max-width: 90rem;
     margin: 0 auto;
 }
 
