@@ -57,7 +57,6 @@ header .custom-navbar .nav-link {
   font-optical-sizing: auto;
   font-weight: 500;
   font-size: 1.75rem;
-  color: #ffffff;
 }
 header .custom-navbar .navbar-toggler {
   border-color: #ffffff;
@@ -66,8 +65,7 @@ header .custom-navbar .navbar-toggler .navbar-toggler-icon {
   color: #ffffff;
 }
 header .custom-toggler {
-  padding: 0.25rem;
-  background: transparent;
+  padding: 0.5rem;
 }
 header .custom-toggler .toggler-icon {
   display: block;
@@ -75,8 +73,7 @@ header .custom-toggler .toggler-icon {
   height: 3px;
   background-color: #ffffff;
   margin: 5px 0;
-  border-radius: 2px;
-  transition: all 0.3s ease;
+  transition: transform 0.45s cubic-bezier(0.68, -0.55, 0.27, 1.55), opacity 0.3s ease;
 }
 header .custom-toggler[aria-expanded=true] .toggler-icon:nth-child(1) {
   transform: translateY(8px) rotate(45deg);
