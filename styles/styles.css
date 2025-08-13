@@ -65,6 +65,28 @@ header .custom-navbar .navbar-toggler {
 header .custom-navbar .navbar-toggler .navbar-toggler-icon {
   color: #ffffff;
 }
+header .custom-toggler {
+  padding: 0.25rem;
+  background: transparent;
+}
+header .custom-toggler .toggler-icon {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: #ffffff;
+  margin: 5px 0;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+header .custom-toggler[aria-expanded=true] .toggler-icon:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+header .custom-toggler[aria-expanded=true] .toggler-icon:nth-child(2) {
+  opacity: 0;
+}
+header .custom-toggler[aria-expanded=true] .toggler-icon:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
 
 nav ul {
   list-style: none;

@@ -99,6 +99,34 @@ header {
             }
         }
     }
+
+    .custom-toggler {
+        padding: 0.25rem;
+        background: transparent;
+
+        .toggler-icon {
+          display: block;
+          width: 25px;
+          height: 3px;
+          background-color: $Text-Contrast-Color;
+          margin: 5px 0;
+          border-radius: 2px;
+          transition: all 0.3s ease;
+        }
+    
+        // Animate when navbar is expanded
+        &[aria-expanded="true"] {
+          .toggler-icon:nth-child(1) {
+            transform: translateY(8px) rotate(45deg);
+          }
+          .toggler-icon:nth-child(2) {
+            opacity: 0;
+          }
+          .toggler-icon:nth-child(3) {
+            transform: translateY(-8px) rotate(-45deg);
+          }
+        }
+    }
 }
 
 nav {
