@@ -241,6 +241,7 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+
     .custom-hero{
         padding: 1rem;
         h1{
@@ -249,6 +250,23 @@ footer {
         .custom-hero-image{
             width: 95%;
             height: auto;
+        }
+    }
+
+    footer {
+        nav ul {
+            flex-direction: row;
+            align-items: center;
+            padding-left: 0;
+            .footer-links{
+                margin: 0 0.5rem;
+            }
+            li {
+                margin: 0 0.5rem;
+            }
+        }
+        .social-media-links {
+            justify-content: center;
         }
     }
     
