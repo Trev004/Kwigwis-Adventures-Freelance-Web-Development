@@ -205,6 +205,18 @@ footer {
             text-decoration: underline;
         }
     }
+    .social-media-links {
+        margin-top: 0.5rem;
+        a {
+            color: $Text-Contrast-Color;
+            margin: 0 0.5rem;
+            display: inline-block;
+        }
+        svg.bi{
+            width: 1.5rem;
+            height: 1.5rem;      
+        }
+    }
 }
 
 // 

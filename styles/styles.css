@@ -154,6 +154,18 @@ footer nav a {
 footer nav a:hover {
   text-decoration: underline;
 }
+footer .social-media-links {
+  margin-top: 0.5rem;
+}
+footer .social-media-links a {
+  color: #ffffff;
+  margin: 0 0.5rem;
+  display: inline-block;
+}
+footer .social-media-links svg.bi {
+  width: 1.5rem;
+  height: 1.5rem;
+}
 
 @media (max-width: 600px) {
   main {
