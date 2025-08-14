@@ -171,5 +171,15 @@ footer nav a:hover {
     flex-direction: column;
     align-items: center;
   }
+  .custom-hero {
+    padding: 1rem;
+  }
+  .custom-hero h1 {
+    font-size: 1.5rem;
+  }
+  .custom-hero .custom-hero-image {
+    width: 95%;
+    height: auto;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
