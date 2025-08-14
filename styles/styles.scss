@@ -92,6 +92,13 @@ header {
                 color: $Text-Contrast-Color;
             }
         }
+        @media (min-width: 600px) {
+            .navbar-brand{
+                img {
+                    margin-right: 2rem;
+                }
+            }
+        }
     }
 
     .custom-toggler {
