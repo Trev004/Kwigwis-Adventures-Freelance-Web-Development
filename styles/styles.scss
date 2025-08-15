@@ -253,6 +253,20 @@ h2 {
       }
     }
 }
+.simple-gallery {
+    width: 100%;
+    max-width: 600px; // optional, controls how wide the images can get
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.3);
+    object-fit: cover;
+    object-position: center;
+    display: flex;
+    &:hover {
+        transform: scale(1.05);
+        transition: transform 0.3s ease;
+    }
+}
 
 // 
 // Footer
