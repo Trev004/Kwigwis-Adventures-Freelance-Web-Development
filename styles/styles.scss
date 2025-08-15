@@ -179,6 +179,24 @@ h2 {
     color: $Important-Text-Color;
 }
 
+.gallery-section{
+    margin: 3rem auto;
+    max-width: 80vw; // optional, controls how wide the section can get
+    border: 0.5rem solid $Important-Text-Color;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    background-color: $Background-Color;
+    .carousel-item {
+        height: 500px; // set a fixed height for consistency
+
+      img {
+        height: 100%;
+        object-fit: contain;
+        object-position: center;
+      }
+    }
+}
+
 // 
 // Footer
 // 

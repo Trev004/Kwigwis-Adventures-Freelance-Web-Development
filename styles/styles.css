@@ -134,6 +134,25 @@ h2 {
   color: #0d5e87;
 }
 
+.gallery-section {
+  margin: 3rem auto;
+  max-width: 80vw;
+  border: 0.5rem solid #0d5e87;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  background-color: #f9f9f9;
+}
+.gallery-section .carousel-item {
+  height: 500px;
+}
+.gallery-section .carousel-item img {
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: center;
+     object-position: center;
+}
+
 footer {
   background-color: #222;
   color: #ffffff;
