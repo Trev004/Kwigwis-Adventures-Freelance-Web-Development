@@ -179,6 +179,42 @@ h2 {
     color: $Important-Text-Color;
 }
 
+//
+// About Us Section
+//
+
+.package-list-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 0.1rem solid $Important-Text-Color;
+    border-radius: 0.5rem;
+    background-color: $Background-Color;
+    &:first-child {
+        margin-top: 2rem;
+    }
+}
+.package-list-item-2{
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border: 0.1rem solid $Important-Text-Color;
+    border-radius: 0.5rem;
+    background-color: $Background-Color;
+}
+.package-title{
+    font-family: "montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: 1rem;
+    color: $Important-Text-Color;
+}
+
+//
+// Gallery Section
+//
+
 .gallery-section{
     margin: 3rem auto;
     max-width: 80vw; // optional, controls how wide the section can get
