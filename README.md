@@ -22,3 +22,4 @@ TODO:
     - Ensure it works correctly on mobile (gets kinda funky when phone is horizontal)
 - Update Footer to include links to socials (or temp links for now)
 - Use copy text provided (I believe there was some for the About us page, so work off of that for temp home page text)
+- change span in packages list to an h3 or h4 tag for accessibility and SEO reasons
