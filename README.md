@@ -1,7 +1,7 @@
 # Kwigwis Adventures Freelance Web Development
 Freelance web development project for the Smiths. A fishing charter website.
 
-TODO:
+## TODO:
 - Add other pages (about us, gallery (*maybe* a dedicated contact page too?))
     - About Us/Boat will have info about the craft
     - Gallery will have photos (carousel?) of previous fishing trips
@@ -24,3 +24,6 @@ TODO:
 - Use copy text provided (I believe there was some for the About us page, so work off of that for temp home page text)
 - change span in packages list to an h3 or h4 tag for accessibility and SEO reasons
 - Update the meta tags in the head for SEO reasons they're currently default
+### Feedback 1
+- Add a link to where to get their fishing license
+- Update under about us, after the intro and Eagle of the Sea to [The text Here](TEMP-copytext.txt)
