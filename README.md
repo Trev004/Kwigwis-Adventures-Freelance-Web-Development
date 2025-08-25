@@ -26,4 +26,12 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Update the meta tags in the head for SEO reasons they're currently default
 ### Feedback 1
 - Add a link to where to get their fishing license
+    - https://recfish-pechesportive.dfo-mpo.gc.ca/nrls-sndpp/index-eng.cfm
 - Update under about us, after the intro and Eagle of the Sea to [The text Here](TEMP-copytext.txt)
+- Use the 2nd layout for the rates. 
+    - Make a separate Rates/contact page and put them there
+- Home page take out the business card temp logo and just use the regular Kwigwis Logo and Name
+- Agree that buttons to contact us (Email and Link to Contact page perhaps?)
+- Delete some temp text on the packages page 
+    - Part about the charters incluing refreshments and tips etc.
+- Try get a Carousel to work for the images instead of the list
