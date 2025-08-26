@@ -165,7 +165,7 @@ h2 {
   background-color: #f9f9f9;
 }
 .package-list-item:first-child {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .package-title {
@@ -210,6 +210,21 @@ h2 {
 .simple-gallery:hover {
   transform: scale(1.05);
   transition: transform 0.3s ease;
+}
+
+.contact-intro {
+  font-family: "Oswald", sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  color: #0d5e87;
+  padding-bottom: 1rem;
+}
+
+.contact-heading {
+  font-family: "Oswald", sans-serif;
+  color: #0d5e87;
+  font-size: 2.5rem;
+  padding-bottom: 1rem;
 }
 
 footer {
@@ -284,6 +299,13 @@ footer .social-media-links svg.bi {
   }
   footer .social-media-links {
     justify-content: center;
+  }
+  .contact-intro {
+    font-size: 2.2rem;
+    text-wrap: nowrap;
+  }
+  .contact-heading {
+    font-size: 2rem;
   }
 }
 /*# sourceMappingURL=styles.css.map */

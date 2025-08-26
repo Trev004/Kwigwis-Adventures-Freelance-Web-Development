@@ -211,7 +211,7 @@ h2 {
     border-radius: 0.5rem;
     background-color: $Background-Color;
     &:first-child {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
 }
 .package-title{
@@ -256,6 +256,23 @@ h2 {
         transform: scale(1.05);
         transition: transform 0.3s ease;
     }
+}
+
+//
+// Contact And Offerings Section
+//
+.contact-intro{
+    font-family: "Oswald", sans-serif;
+    font-weight: 800;
+    font-size: 3rem;
+    color: $Important-Text-Color;
+    padding-bottom: 1rem;
+}
+.contact-heading {
+    font-family: "Oswald", sans-serif;
+    color: $Important-Text-Color;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
 }
 
 // 
@@ -349,4 +366,12 @@ footer {
         }
     }
     
+// Contact And Offerings Section
+    .contact-intro{
+        font-size: 2.2rem;
+        text-wrap: nowrap;
+    }
+    .contact-heading {
+        font-size: 2rem;
+    }
 }
