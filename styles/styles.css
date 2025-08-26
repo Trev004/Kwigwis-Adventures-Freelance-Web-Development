@@ -158,10 +158,7 @@ h2 {
 }
 
 .package-list-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   padding: 1rem;
   border: 0.1rem solid #0d5e87;
   border-radius: 0.5rem;
@@ -169,14 +166,6 @@ h2 {
 }
 .package-list-item:first-child {
   margin-top: 2rem;
-}
-
-.package-list-item-2 {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  border: 0.1rem solid #0d5e87;
-  border-radius: 0.5rem;
-  background-color: #f9f9f9;
 }
 
 .package-title {
