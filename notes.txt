@@ -3,3 +3,8 @@ On the offerings page, maybe get rid of max of 4-5 as that's a little odd, maybe
 Include some extra info or text on whale watching, as it's currently kinda empty.
 
 on the release of cremains, maybe define what the "general area" is more. Kinda odd on the other end wondering what they mean by "general area"
+
+Add tabindex to list links for keyboard accessability.
+Check that text across the site meets accessability standards. (intro blurb on home page currently doesn't)
+Link on offerings page (to fishing license) doesn't currently meet accessability standards
+label img (social media icons) in footer for accessability
