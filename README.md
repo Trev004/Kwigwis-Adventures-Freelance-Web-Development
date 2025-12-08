@@ -48,4 +48,7 @@ Freelance web development project for the Smiths. A fishing charter website.
     - Meaning Keep wording I think
 - Under the release of cremains at sea, change to we would travel out 15 minutes from the marina, come to a rest
 - Under the fuel surcharge section under the release of the cremains, add on the end beyond the 15 minutes.
+- Under the release of cremains section:
+    - Delete there is no ceremony per se Kwigwis Adventures can accommodate you if you wish…(same wording).
+    - Replace with: Spiritual journeys at sea can be described as a gentle return to the elements, a passage from individuality into something larger, timeless, and deeply peaceful. Releasing cremated remains to the ocean is more than a farewell; it is a spiritual journey back to the source of life itself. The sea’s endless horizon invites families to see this moment not as an ending, but as a peaceful transition into a larger, timeless whole. 
 - Note: Get started on these and then some more wording sections and images will come mid-week sometime.
