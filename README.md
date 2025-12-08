@@ -35,3 +35,17 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Delete some temp text on the packages page 
     - Part about the charters incluing refreshments and tips etc.
 - Try get a Carousel to work for the images instead of the list
+
+### Feedback 2
+- On the first page, say now booking for 2026, instead of bookings available
+- Delete on the section about your guide, the repetitive Kwigwis meaning part.
+- Keep Up and down Photos page instead of Carousel
+- Delete Picture 4
+- "Fuel Surchare" type on offerings page
+- I think we should call that page Our Packages and Contact Information
+- Quick charter and long change to Half-Day Charters and Full-Day Charters. Change to maximum 5 for all instead of maximum 4-5. Same with the whale watching section.
+- We are getting a few whale watching pictures from our friends but we like what you added for wording. 
+    - Meaning Keep wording I think
+- Under the release of cremains at sea, change to we would travel out 15 minutes from the marina, come to a rest
+- Under the fuel surcharge section under the release of the cremains, add on the end beyond the 15 minutes.
+- Note: Get started on these and then some more wording sections and images will come mid-week sometime.
