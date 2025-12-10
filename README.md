@@ -40,7 +40,7 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~On the first page, say now booking for 2026, instead of bookings available~~
 - ~~Delete on the section about your guide, the repetitive Kwigwis meaning part.~~
 - ~~Keep Up and down Photos page instead of Carousel~~
-- Delete Picture 4
+- ~~Delete Picture 4~~
 - ~~"Fuel Surchare" type on offerings page~~
 - I think we should call that page Our Packages and Contact Information
 - Quick charter and long change to Half-Day Charters and Full-Day Charters. Change to maximum 5 for all instead of maximum 4-5. Same with the whale watching section.
@@ -54,7 +54,7 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Note: Get started on these and then some more wording sections and images will come mid-week sometime.
 
 ### Feedback 2.5
-- Delete Pictures 4, 6 and 7 of Doug
+- ~~Delete Pictures 4, 6 and 7 of Doug~~
 - Add new Pictures
     - Add one Whale to the Section on Whale watching, and the other on the gallery
     - Whale watching Credit: Lyle & Deidre Morrow
