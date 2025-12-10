@@ -52,3 +52,9 @@ Freelance web development project for the Smiths. A fishing charter website.
     - Delete there is no ceremony per se Kwigwis Adventures can accommodate you if you wish…(same wording).
     - Replace with: Spiritual journeys at sea can be described as a gentle return to the elements, a passage from individuality into something larger, timeless, and deeply peaceful. Releasing cremated remains to the ocean is more than a farewell; it is a spiritual journey back to the source of life itself. The sea’s endless horizon invites families to see this moment not as an ending, but as a peaceful transition into a larger, timeless whole. 
 - Note: Get started on these and then some more wording sections and images will come mid-week sometime.
+
+### Feedback 2.5
+- Delete Pictures 4, 6 and 7 of Doug
+- Add new Pictures
+    - Add one Whale to the Section on Whale watching, and the other on the gallery
+    - Whale watching Credit: Lyle & Deidre Morrow
