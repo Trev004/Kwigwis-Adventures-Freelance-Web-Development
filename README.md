@@ -43,7 +43,7 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~Delete Picture 4~~
 - ~~"Fuel Surchare" type on offerings page~~
 - ~~I think we should call that page Our Packages and Contact Information~~
-- Quick charter and long change to Half-Day Charters and Full-Day Charters. Change to maximum 5 for all instead of maximum 4-5. Same with the whale watching section.
+- ~~Quick charter and long change to Half-Day Charters and Full-Day Charters. Change to maximum 5 for all instead of maximum 4-5. Same with the whale watching section.~~
 - We are getting a few whale watching pictures from our friends but we like what you added for wording. 
     - Meaning Keep wording I think
 - Under the release of cremains at sea, change to we would travel out 15 minutes from the marina, come to a rest
