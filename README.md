@@ -56,5 +56,5 @@ Freelance web development project for the Smiths. A fishing charter website.
 ### Feedback 2.5
 - ~~Delete Pictures 4, 6 and 7 of Doug~~
 - Add new Pictures
-    - ~~Add one Whale to the Section on Whale watching,~~ and the other on the gallery
+    - ~~Add one Whale to the Section on Whale watching, and the other on the gallery~~
     - ~~Whale watching Credit: Lyle & Deidre Morrow~~
