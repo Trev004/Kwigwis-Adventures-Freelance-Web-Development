@@ -264,6 +264,23 @@ h2 {
   padding-bottom: 1rem;
 }
 
+.whale-watching-picture {
+  display: block;
+  margin: 0rem auto 2rem auto;
+  max-width: 80%;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.3);
+  height: auto;
+}
+
+.photo-credit {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #333;
+  margin-top: -2rem;
+  margin-bottom: 2rem;
+}
+
 footer {
   background-color: #222;
   color: #ffffff;
@@ -342,6 +359,9 @@ footer .social-media-links svg.bi {
   }
   .contact-heading {
     font-size: 2rem;
+  }
+  .whale-watching-picture {
+    max-width: 100%;
   }
 }
 /*# sourceMappingURL=styles.css.map */

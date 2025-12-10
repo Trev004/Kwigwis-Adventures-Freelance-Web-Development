@@ -44,8 +44,8 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~"Fuel Surchare" type on offerings page~~
 - ~~I think we should call that page Our Packages and Contact Information~~
 - ~~Quick charter and long change to Half-Day Charters and Full-Day Charters. Change to maximum 5 for all instead of maximum 4-5. Same with the whale watching section.~~
-- We are getting a few whale watching pictures from our friends but we like what you added for wording. 
-    - Meaning Keep wording I think
+- ~~We are getting a few whale watching pictures from our friends but we like what you added for wording. ~~
+    - ~~Meaning Keep wording I think~~
 - Under the release of cremains at sea, change to we would travel out 15 minutes from the marina, come to a rest
 - Under the fuel surcharge section under the release of the cremains, add on the end beyond the 15 minutes.
 - Under the release of cremains section:
@@ -56,5 +56,5 @@ Freelance web development project for the Smiths. A fishing charter website.
 ### Feedback 2.5
 - ~~Delete Pictures 4, 6 and 7 of Doug~~
 - Add new Pictures
-    - Add one Whale to the Section on Whale watching, and the other on the gallery
-    - Whale watching Credit: Lyle & Deidre Morrow
+    - ~~Add one Whale to the Section on Whale watching,~~ and the other on the gallery
+    - ~~Whale watching Credit: Lyle & Deidre Morrow~~
