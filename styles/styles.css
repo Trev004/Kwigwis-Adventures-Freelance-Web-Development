@@ -181,8 +181,6 @@ h2 {
 .gallery-section {
   margin: 3rem auto;
   max-width: 80vw;
-  border: 0.5rem solid #0d5e87;
-  border-radius: 0.5rem;
   padding: 0.5rem;
   background-color: #f9f9f9;
 }
