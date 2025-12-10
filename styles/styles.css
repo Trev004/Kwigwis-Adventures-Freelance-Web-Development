@@ -148,6 +148,10 @@ h2 {
   background-color: #006699;
 }
 
+.home-cta {
+  font-weight: bold;
+}
+
 .about-captain-section {
   display: flex;
   flex-direction: column;

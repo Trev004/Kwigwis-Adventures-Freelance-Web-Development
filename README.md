@@ -37,7 +37,7 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Try get a Carousel to work for the images instead of the list
 
 ### Feedback 2
-- On the first page, say now booking for 2026, instead of bookings available
+- ~~On the first page, say now booking for 2026, instead of bookings available~~
 - Delete on the section about your guide, the repetitive Kwigwis meaning part.
 - Keep Up and down Photos page instead of Carousel
 - Delete Picture 4
