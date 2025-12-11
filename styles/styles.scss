@@ -227,6 +227,33 @@ h2 {
         transition: transform 0.3s ease;
     }
 }
+.about-boat-gallery-section{
+    margin: 3rem auto;
+    max-width: 80vw; // optional, controls how wide the section can get
+    padding: 0.5rem;
+    background-color: $Background-Color;
+}
+.about-boat-gallery-masonry {
+  column-count: 2; // number of columns on desktop
+  column-gap: 1rem;
+
+  img {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    display: block;
+    break-inside: avoid;
+    box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.3);
+    &:hover {
+        transform: scale(1.25);
+        transition: transform 0.3s ease;
+    }
+  }
+
+  @media (max-width: 768px) {
+    column-count: 1;
+  }
+}
 
 //
 // Gallery Section
@@ -239,30 +266,7 @@ h2 {
     // border-radius: 0.5rem;
     padding: 0.5rem;
     background-color: $Background-Color;
-    .carousel-item {
-        height: 500px; // set a fixed height for consistency
-
-      img {
-        height: 100%;
-        object-fit: contain;
-        object-position: center;
-      }
-    }
 }
-// .simple-gallery {
-//     width: 100%;
-//     max-width: 600px; // optional, controls how wide the images can get
-//     margin: 1rem auto;
-//     border-radius: 0.5rem;
-//     box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.3);
-//     object-fit: cover;
-//     object-position: center;
-//     display: flex;
-//     &:hover {
-//         transform: scale(1.05);
-//         transition: transform 0.3s ease;
-//     }
-// }
 
 .masonry-gallery {
   column-count: 3; // number of columns on desktop

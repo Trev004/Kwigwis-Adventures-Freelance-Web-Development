@@ -178,21 +178,44 @@ h2 {
   transition: transform 0.3s ease;
 }
 
-.gallery-section {
+.about-boat-gallery-section {
   margin: 3rem auto;
   max-width: 80vw;
   padding: 0.5rem;
   background-color: #f9f9f9;
 }
-.gallery-section .carousel-item {
-  height: 500px;
+
+.about-boat-gallery-masonry {
+  -moz-column-count: 2;
+       column-count: 2;
+  -moz-column-gap: 1rem;
+       column-gap: 1rem;
 }
-.gallery-section .carousel-item img {
-  height: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
-  -o-object-position: center;
-     object-position: center;
+.about-boat-gallery-masonry img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  display: block;
+  -moz-column-break-inside: avoid;
+       break-inside: avoid;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.3);
+}
+.about-boat-gallery-masonry img:hover {
+  transform: scale(1.25);
+  transition: transform 0.3s ease;
+}
+@media (max-width: 768px) {
+  .about-boat-gallery-masonry {
+    -moz-column-count: 1;
+         column-count: 1;
+  }
+}
+
+.gallery-section {
+  margin: 3rem auto;
+  max-width: 80vw;
+  padding: 0.5rem;
+  background-color: #f9f9f9;
 }
 
 .masonry-gallery {
