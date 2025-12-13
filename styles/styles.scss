@@ -336,22 +336,25 @@ h2 {
     font-size: 2.5rem;
     padding-bottom: 1rem;
 }
-.whale-watching-picture{
-    display: block;
-    margin: 0rem auto 2rem auto;
-    max-width: 80%;
-    border-radius: 0.5rem;
-    box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.3);
-    height: auto;
-}
-.photo-credit{
-    text-align: center;
-    font-size: 0.85rem;
-    color: $Main-Text-Color;
-    margin-top: -2rem;
-    margin-bottom: 2rem;
-}
+.whale-gallery-band{
+    margin: 1rem auto;
 
+    .whale-watching-picture{
+        display: block;
+        margin: 0rem auto 2rem auto;
+        max-width: 100%;
+        border-radius: 0.5rem;
+        box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.3);
+        height: auto;
+    }
+    .photo-credit{
+        text-align: center;
+        font-size: 0.85rem;
+        color: $Main-Text-Color;
+        margin-top: -2rem;
+        margin-bottom: 2rem;
+    }
+}
 // 
 // Footer
 // 
