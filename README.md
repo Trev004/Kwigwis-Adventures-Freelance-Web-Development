@@ -65,3 +65,9 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~For the desktop version, could we do 3 pictures say the logo one, I don’t have one with the blue around it, a picture of the boat and nice fish picture? Say the logo in the middle and the other 2 on the other sides or even 4 and include a whale one? I got more whale ones.~~
 - ~~Boat pictures are great there~~
 - ~~We can get rid of the 6 passenger wording as Doug double checked and the max is 6 with him.~~
+
+### Feedback 4
+- Just add the pictures for now
+- New social links
+    - Facebook: https://www.facebook.com/people/Kwigwis-Adventures/61578956918261/
+    - TikTok: https://www.tiktok.com/@kwigwisadventuresshaw.ca
