@@ -148,6 +148,13 @@ h2 {
   font-weight: 500;
 }
 
+.custom-hero-text-logo {
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
 .home-cta {
   font-weight: bold;
 }
