@@ -68,6 +68,6 @@ Freelance web development project for the Smiths. A fishing charter website.
 
 ### Feedback 4
 - Just add the pictures for now
-- New social links
-    - Facebook: https://www.facebook.com/people/Kwigwis-Adventures/61578956918261/
-    - TikTok: https://www.tiktok.com/@kwigwisadventuresshaw.ca
+- ~~New social links~~
+    - ~~Facebook: https://www.facebook.com/people/Kwigwis-Adventures/61578956918261/~~
+    - ~~TikTok: https://www.tiktok.com/@kwigwisadventuresshaw.ca~~
