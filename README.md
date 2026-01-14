@@ -72,3 +72,22 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~New social links~~
     - ~~Facebook: https://www.facebook.com/people/Kwigwis-Adventures/61578956918261/~~
     - ~~TikTok: https://www.tiktok.com/@kwigwisadventuresshaw.ca~~
+- ~~Fish Hook Logo text looks good~~
+- Change the rates for the whale watching.
+    - 4 hour $165.00 per person *
+    - 8 hour $295.00 per person *
+    - *12 % fuel surcharge applies for all whale watching tours 
+    - This is based on minimum 4 people per tour, prices may be subject to change if less than 4 people.
+    - Ask about half day whale watching and 2 hour fishing charters.
+- Under Rates and Packages
+    - Add an S to Fishing Charter to say Fishing Charters 
+- I think it would be nice to add a picture of the boat on the bottom of the front page. What do you think? (Yeah sure, nothing there anyway so more visual variety wouldn't hurt)
+    - I will send one, maybe it can be smaller.  And add a smaller whale picture beside the boat. **NOTE: I believe there was an issue with sending these because I didn't get em**
+- Then delete the our charters section and add something smaller like:
+    - "Join us for an unforgettable adventure on the water."
+- Change check out our offerings on the first page to "What we offer!"
+- Under the Gallery, delete the section the chat PGT section. 
+    - Add "A Look Back" in Photos.
+        - "Whether you're reminiscing or planning your own trip, let these memories inspire your next adventure!"
+    - Delete the previous charters section.
+        - (I believe this means replace "Previous Charters" section. with "A Look Back")
