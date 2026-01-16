@@ -72,12 +72,12 @@ Freelance web development project for the Smiths. A fishing charter website.
     - ~~Facebook: https://www.facebook.com/people/Kwigwis-Adventures/61578956918261/~~
     - ~~TikTok: https://www.tiktok.com/@kwigwisadventuresshaw.ca~~
 - ~~Fish Hook Logo text looks good~~
-- Change the rates for the whale watching.
-    - 4 hour $165.00 per person *
-    - 8 hour $295.00 per person *
-    - *12 % fuel surcharge applies for all whale watching tours 
-    - This is based on minimum 4 people per tour, prices may be subject to change if less than 4 people.
-    - Ask about half day whale watching and 2 hour fishing charters.
+- ~~Change the rates for the whale watching.~~
+    - ~~4 hour $165.00 per person *~~
+    - ~~8 hour $295.00 per person *~~
+    - ~~*12 % fuel surcharge applies for all whale watching tours~~
+    - ~~This is based on minimum 4 people per tour, prices may be subject to change if less than 4 people.~~
+    - ~~Ask about half day whale watching and 2 hour fishing charters.~~ **NOTE: wording is a lil funky here, since the half day charter is listed right above it, what is there to ask about?**
 - ~~Under Rates and Packages~~
     - ~~Add an S to Fishing Charter to say Fishing Charters~~
 - I think it would be nice to add a picture of the boat on the bottom of the front page. What do you think? (Yeah sure, nothing there anyway so more visual variety wouldn't hurt)
