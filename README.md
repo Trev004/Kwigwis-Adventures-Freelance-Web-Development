@@ -80,8 +80,8 @@ Freelance web development project for the Smiths. A fishing charter website.
     - ~~Ask about half day whale watching and 2 hour fishing charters.~~ **NOTE: wording is a lil funky here, since the half day charter is listed right above it, what is there to ask about?**
 - ~~Under Rates and Packages~~
     - ~~Add an S to Fishing Charter to say Fishing Charters~~
-- I think it would be nice to add a picture of the boat on the bottom of the front page. What do you think? (Yeah sure, nothing there anyway so more visual variety wouldn't hurt)
-    - I will send one, maybe it can be smaller.  And add a smaller whale picture beside the boat. **NOTE: I believe there was an issue with sending these because I didn't get em**
+- ~~I think it would be nice to add a picture of the boat on the bottom of the front page. What do you think? (Yeah sure, nothing there anyway so more visual variety wouldn't hurt)~~
+    - ~~I will send one, maybe it can be smaller.  And add a smaller whale picture beside the boat.~~ **NOTE: I believe there was an issue with sending these because I didn't get em**
 - ~~Then delete the our charters section and add something smaller like:~~
     - ~~"Join us for an unforgettable adventure on the water."~~ **NOTE: I've rolled this text into the main intro text rather than have two sections and one only have a single sentence**
 - ~~Change check out our offerings on the first page to "What we offer!"~~
