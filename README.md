@@ -97,3 +97,4 @@ Freelance web development project for the Smiths. A fishing charter website.
     - Emergency Response Transport
     - Footer
 - Ensure consistency and eliminate redundancy by converting other h1 intros into the new intro-h1 class
+- Fix Kwigwis Adventures Logo a lil, refine the photoshop of it.
