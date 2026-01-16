@@ -84,7 +84,7 @@ Freelance web development project for the Smiths. A fishing charter website.
     - I will send one, maybe it can be smaller.  And add a smaller whale picture beside the boat. **NOTE: I believe there was an issue with sending these because I didn't get em**
 - Then delete the our charters section and add something smaller like:
     - "Join us for an unforgettable adventure on the water."
-- Change check out our offerings on the first page to "What we offer!"
+- ~~Change check out our offerings on the first page to "What we offer!"~~
 - ~~Under the Gallery, delete the section the chat PGT section. ~~
     - ~~Add "A Look Back" in Photos.~~
         - ~~"Whether you're reminiscing or planning your own trip, let these memories inspire your next adventure!"~~
