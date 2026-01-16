@@ -121,6 +121,13 @@ h2 {
   color: #0d5e87;
 }
 
+.intro-h1 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  color: #0d5e87;
+}
+
 .custom-button {
   background-color: #004466;
   color: #ffffff;

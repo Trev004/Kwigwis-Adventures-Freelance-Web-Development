@@ -85,11 +85,11 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Then delete the our charters section and add something smaller like:
     - "Join us for an unforgettable adventure on the water."
 - Change check out our offerings on the first page to "What we offer!"
-- Under the Gallery, delete the section the chat PGT section. 
-    - Add "A Look Back" in Photos.
-        - "Whether you're reminiscing or planning your own trip, let these memories inspire your next adventure!"
-    - Delete the previous charters section.
-        - (I believe this means replace "Previous Charters" section. with "A Look Back")
+- ~~Under the Gallery, delete the section the chat PGT section. ~~
+    - ~~Add "A Look Back" in Photos.~~
+        - ~~"Whether you're reminiscing or planning your own trip, let these memories inspire your next adventure!"~~
+    - ~~Delete the previous charters section.~~
+        - ~~(I believe this means replace "Previous Charters" section. with "A Look Back")~~
 
 ## BEFORE LAUNCH CHECKLIST
 - **NOTE: BEFORE LAUNCHING SITE FOR REAL, GO THROUGH ALL PHOTOS AND CHANGE ALT TEXT FOR SEO AND ACCESSABILITY REASONS. GALLERY, ABOUT US, CONTACT/OFFERINGS PAGE**
