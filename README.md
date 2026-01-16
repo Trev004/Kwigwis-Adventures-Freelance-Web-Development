@@ -96,3 +96,4 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Go through text to ensure there's no ChatGPT filler left behind. As of Jan 16th 2026 theres:
     - Emergency Response Transport
     - Footer
+- Ensure consistency and eliminate redundancy by converting other h1 intros into the new intro-h1 class
