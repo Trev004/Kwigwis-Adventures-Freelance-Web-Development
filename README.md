@@ -68,7 +68,6 @@ Freelance web development project for the Smiths. A fishing charter website.
 
 ### Feedback 4
 - ~~Just add the pictures for now~~
-    - **NOTE: BEFORE LAUNCHING SITE FOR REAL, GO THROUGH ALL PHOTOS AND CHANGE ALT TEXT FOR SEO AND ACCESSABILITY REASONS. GALLERY, ABOUT US, CONTACT/OFFERINGS PAGE**
 - ~~New social links~~
     - ~~Facebook: https://www.facebook.com/people/Kwigwis-Adventures/61578956918261/~~
     - ~~TikTok: https://www.tiktok.com/@kwigwisadventuresshaw.ca~~
@@ -91,3 +90,6 @@ Freelance web development project for the Smiths. A fishing charter website.
         - "Whether you're reminiscing or planning your own trip, let these memories inspire your next adventure!"
     - Delete the previous charters section.
         - (I believe this means replace "Previous Charters" section. with "A Look Back")
+
+## BEFORE LAUNCH CHECKLIST
+- **NOTE: BEFORE LAUNCHING SITE FOR REAL, GO THROUGH ALL PHOTOS AND CHANGE ALT TEXT FOR SEO AND ACCESSABILITY REASONS. GALLERY, ABOUT US, CONTACT/OFFERINGS PAGE**
