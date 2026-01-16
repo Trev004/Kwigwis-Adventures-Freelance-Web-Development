@@ -79,8 +79,8 @@ Freelance web development project for the Smiths. A fishing charter website.
     - *12 % fuel surcharge applies for all whale watching tours 
     - This is based on minimum 4 people per tour, prices may be subject to change if less than 4 people.
     - Ask about half day whale watching and 2 hour fishing charters.
-- Under Rates and Packages
-    - Add an S to Fishing Charter to say Fishing Charters 
+- ~~Under Rates and Packages~~
+    - ~~Add an S to Fishing Charter to say Fishing Charters~~
 - I think it would be nice to add a picture of the boat on the bottom of the front page. What do you think? (Yeah sure, nothing there anyway so more visual variety wouldn't hurt)
     - I will send one, maybe it can be smaller.  And add a smaller whale picture beside the boat. **NOTE: I believe there was an issue with sending these because I didn't get em**
 - Then delete the our charters section and add something smaller like:
