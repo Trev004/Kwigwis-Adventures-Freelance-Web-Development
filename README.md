@@ -91,6 +91,16 @@ Freelance web development project for the Smiths. A fishing charter website.
     - ~~Delete the previous charters section.~~
         - ~~(I believe this means replace "Previous Charters" section. with "A Look Back")~~
 
+### Feedback 5
+- Can we change the wording on the front page to: If you are looking to book your sea adventure out of Campbell River, BC
+- The front page looks better with the pictures. 
+- Can we add these recent photos to the gallery before the other pictures (as new and from a very recent trip).
+    - Pictures provided
+- The front looks good, I like the A Look Back, can we centre it and make it wider? Also add the below boat picture under the whale picture on the front, or could we make them align in 3 horizontally?
+- Also, the ask about whale watching and 2 hour fishing charters, maybe add whatever suites you, we are flexible, call us to discuss further?
+- Same with on the front page, centre the Welcome to Kwigwis Adventures and make it a bit larger.
+- I haven’t created the instagram yet, so can we delete that until I get it created? Same with the YouTube.
+
 ## BEFORE LAUNCH CHECKLIST
 - **NOTE: BEFORE LAUNCHING SITE FOR REAL, GO THROUGH ALL PHOTOS AND CHANGE ALT TEXT FOR SEO AND ACCESSABILITY REASONS. GALLERY, ABOUT US, CONTACT/OFFERINGS PAGE**
 - Go through text to ensure there's no ChatGPT filler left behind. As of Jan 16th 2026 theres:
