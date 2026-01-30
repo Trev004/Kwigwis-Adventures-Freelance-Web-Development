@@ -98,7 +98,8 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~Can we add these recent photos to the gallery before the other pictures (as new and from a very recent trip).~~
     - Pictures provided
 - ~~The front looks good, I like the A Look Back, can we centre it and make it wider?~~
-- Also add the below boat picture under the whale picture on the front, or could we make them align in 3 horizontally?
+- ~~Also add the below boat picture under the whale picture on the front, or could we make them align in 3 horizontally?~~
+    - **NOTE: I've added both to see, as the three column looks off with their different image shapes**
 - Also, the ask about whale watching and 2 hour fishing charters, maybe add whatever suites you, we are flexible, call us to discuss further?
 - Same with on the front page, centre the Welcome to Kwigwis Adventures and make it a bit larger.
 - I haven’t created the instagram yet, so can we delete that until I get it created? Same with the YouTube.
