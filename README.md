@@ -111,3 +111,4 @@ Freelance web development project for the Smiths. A fishing charter website.
 - Fix Kwigwis Adventures Logo a lil, refine the photoshop of it.
 - Improve the Contact Us section on contact page, the email and phone are pretty plain as is. Could use some extra styling for some information hierarchy and clarity.
 - See about making the header sticky, especially important on the Gallery and Contact page on mobile since you're scrolling for quite a while.
+- Ensure no commented code remains.
