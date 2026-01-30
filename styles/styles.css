@@ -229,6 +229,18 @@ h2 {
   }
 }
 
+.gallery-intro-heading {
+  text-align: center;
+  font-size: 5rem;
+}
+
+.gallery-intro-paragraph {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: -2rem;
+}
+
 .gallery-section {
   margin: 3rem auto;
   max-width: 80vw;
@@ -396,6 +408,12 @@ footer .social-media-links svg.bi {
   }
   footer .social-media-links {
     justify-content: center;
+  }
+  .gallery-intro-heading {
+    font-size: 4rem;
+  }
+  .gallery-intro-paragraph {
+    margin-bottom: -1rem;
   }
   .contact-intro {
     font-size: 2.2rem;
