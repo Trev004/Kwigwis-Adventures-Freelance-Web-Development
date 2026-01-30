@@ -92,7 +92,8 @@ Freelance web development project for the Smiths. A fishing charter website.
         - ~~(I believe this means replace "Previous Charters" section. with "A Look Back")~~
 
 ### Feedback 5
-- Can we change the wording on the front page to: If you are looking to book your sea adventure out of Campbell River, BC
+- ~~Can we change the wording on the front page to: If you are looking to book your sea adventure out of Campbell River, BC~~
+    - **NOTE: the intro blurb? unsure of what was meant**
 - The front page looks better with the pictures. 
 - Can we add these recent photos to the gallery before the other pictures (as new and from a very recent trip).
     - Pictures provided
