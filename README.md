@@ -105,7 +105,7 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~I haven’t created the instagram yet, so can we delete that until I get it created? Same with the YouTube.~~
 
 ### Feedback 6
-- The 2nd option for the pictures looks good.
+- ~~The 2nd option for the pictures looks good.~~
 - Think on the first into page can we say:
     - Looking to book a fishing charter or sea adventure out of Campbell River, contact us below. Now booking for 2026!
 - Change buttons / add buttons: Centre both buttons and wording 
