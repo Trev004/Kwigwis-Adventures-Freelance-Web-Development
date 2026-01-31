@@ -107,7 +107,7 @@ Freelance web development project for the Smiths. A fishing charter website.
 ### Feedback 6
 - ~~The 2nd option for the pictures looks good.~~
 - Think on the first into page can we say:
-    - Looking to book a fishing charter or sea adventure out of Campbell River, contact us below. Now booking for 2026!
+    - ~~Looking to book a fishing charter or sea adventure out of Campbell River, contact us below. Now booking for 2026!~~
 - Change buttons / add buttons: Centre both buttons and wording 
     - Contact Us (Phone Number? Maybe change colour for visual hierarchy reasons)
     - What we offer
