@@ -115,6 +115,11 @@ Freelance web development project for the Smiths. A fishing charter website.
     - ~~DEPOSIT & CANCELLATION POLICY~~
     - ~~A $300.00 deposit is due at the time of booking to hold your date. Your deposit will be refundable up to 10 days before your trip, after that your deposit becomes non-refundable. The balance is due the day of your charter. We accept cash and etransfer.~~
 
+### Feedback 6.5 
+- ~~Looks good one last change on the front page.~~
+    - ~~Please mice Now Booking for 2026! Under Kwigwis Adventures ~~
+    - ~~And then Contact us below! Centre it please ~~
+
 ## BEFORE LAUNCH CHECKLIST
 - **NOTE: BEFORE LAUNCHING SITE FOR REAL, GO THROUGH ALL PHOTOS AND CHANGE ALT TEXT FOR SEO AND ACCESSABILITY REASONS. GALLERY, ABOUT US, CONTACT/OFFERINGS PAGE**
 - Go through text to ensure there's no ChatGPT filler left behind. As of Jan 16th 2026 theres:
