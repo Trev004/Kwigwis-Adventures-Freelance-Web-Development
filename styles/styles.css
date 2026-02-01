@@ -369,6 +369,14 @@ h2 {
   margin-bottom: 2rem;
 }
 
+.policy-section {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background-color: #ececec;
+  border-left: 0.25rem solid #0d5e87;
+  border-radius: 0.25rem;
+}
+
 footer {
   background-color: #222;
   color: #ffffff;
