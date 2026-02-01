@@ -422,13 +422,15 @@ h2 {
         margin-bottom: 2rem;
     }
 }
+
 .policy-section {
     margin-top: 3rem;
     padding: 1.5rem;
     background-color: darken($Background-Color, 5%);
     border-left: 0.25rem solid $Important-Text-Color;
-    border-radius: 0.25rem;
+    border-radius: 0.5rem;
 }
+
 // 
 // Footer
 // 
