@@ -137,10 +137,28 @@ h2 {
   font-size: 1rem;
   font-weight: bold;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+  transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
 }
-.custom-button:hover {
+.custom-button:hover, .custom-button:focus-visible {
   background-color: #006699;
+  transform: translateY(-2px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.35);
+}
+
+.important-button {
+  background-color: #007bff;
+}
+.important-button:hover, .important-button:focus-visible {
+  background-color: #0062cc;
+  transform: translateY(-3px);
+}
+
+.secondary-button {
+  background-color: #7c9dbc;
+}
+.secondary-button:hover {
+  background-color: #5a84ab;
 }
 
 .custom-hero {
@@ -165,6 +183,14 @@ h2 {
 
 .home-cta {
   font-weight: bold;
+}
+
+.home-page-buttons {
+  text-decoration: none;
+  max-width: 400px;
+}
+.home-page-buttons:hover {
+  color: #ffffff;
 }
 
 .three-column-intro-photos {

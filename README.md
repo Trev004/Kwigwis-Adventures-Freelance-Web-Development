@@ -108,9 +108,9 @@ Freelance web development project for the Smiths. A fishing charter website.
 - ~~The 2nd option for the pictures looks good.~~
 - Think on the first into page can we say:
     - ~~Looking to book a fishing charter or sea adventure out of Campbell River, contact us below. Now booking for 2026!~~
-- Change buttons / add buttons: Centre both buttons and wording 
-    - Contact Us (Phone Number? Maybe change colour for visual hierarchy reasons)
-    - What we offer
+- ~~Change buttons / add buttons: Centre both buttons and wording ~~
+    - ~~Contact Us (Phone Number? Maybe change colour for visual hierarchy reasons)~~
+    - ~~What we offer~~
 - Please add somewhere on the packages page:
     - DEPOSIT & CANCELLATION POLICY
     - A $300.00 deposit is due at the time of booking to hold your date. Your deposit will be refundable up to 10 days before your trip, after that your deposit becomes non-refundable. The balance is due the day of your charter. We accept cash and etransfer.
