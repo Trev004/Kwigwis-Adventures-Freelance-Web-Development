@@ -74,6 +74,12 @@ a:focus-visible, button:focus-visible {
     outline-offset: 3px;
 }
 
+@media (prefers-reduced-motion: reduce) {
+    * {
+        transition: none !important;
+    }
+}
+
 // 
 //  Header & Navigation
 //
