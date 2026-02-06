@@ -69,6 +69,11 @@ body {
 //  Accessibility Helpers
 // 
 
+a:focus-visible, button:focus-visible {
+    outline: 3px solid $Important-Button-Color;
+    outline-offset: 3px;
+}
+
 // 
 //  Header & Navigation
 //
