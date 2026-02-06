@@ -122,8 +122,8 @@ Freelance web development project for the Smiths. A fishing charter website.
 
 ## BEFORE LAUNCH CHECKLIST
 - **NOTE: BEFORE LAUNCHING SITE FOR REAL, GO THROUGH ALL PHOTOS AND CHANGE ALT TEXT FOR SEO AND ACCESSABILITY REASONS. GALLERY, ABOUT US, CONTACT/OFFERINGS PAGE**
-- Go through text to ensure there's no ChatGPT filler left behind. As of Jan 16th 2026 theres:
-    - Emergency Response Transport
+- ~~Go through text to ensure there's no ChatGPT filler left behind. As of Jan 16th 2026 theres:~~
+    - ~~Emergency Response Transport~~
     - ~~Footer~~
 - Ensure consistency and eliminate redundancy by converting other h1 intros into the new intro-h1 class
 - Fix Kwigwis Adventures Logo a lil, refine the photoshop of it.
