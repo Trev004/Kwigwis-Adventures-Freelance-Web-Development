@@ -131,3 +131,4 @@ Freelance web development project for the Smiths. A fishing charter website.
 - See about making the header sticky, especially important on the Gallery and Contact page on mobile since you're scrolling for quite a while.
 - Ensure no commented code remains.
 - Ask about setting background-size to cover for the hero image
+- Maybe make a tiny icon for the navbar instead of the huge one
