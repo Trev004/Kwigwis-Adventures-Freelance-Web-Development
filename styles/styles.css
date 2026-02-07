@@ -82,6 +82,9 @@ header .custom-navbar .navbar-brand {
   align-items: center;
   margin-right: 0;
 }
+header .custom-navbar .navbar-nav {
+  align-items: end;
+}
 @media (min-width: 600px) {
   header .custom-navbar .navbar-brand img {
     margin-right: 1rem;
@@ -431,9 +434,6 @@ footer .social-media-links svg.bi {
   main {
     width: 100%;
     padding: 2rem;
-  }
-  .navbar-nav {
-    align-items: end;
   }
   nav ul {
     flex-direction: column;

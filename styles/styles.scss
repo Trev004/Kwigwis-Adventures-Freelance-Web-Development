@@ -105,10 +105,15 @@ header {
                 color: $Text-Contrast-Color;
             }
         }
+
         .navbar-brand {
             display: flex;
             align-items: center;
             margin-right: 0;
+        }
+
+        .navbar-nav {
+            align-items: end;
         }
         @media (min-width: 600px) {
             .navbar-brand{
@@ -494,15 +499,6 @@ footer {
     main {
         width: 100%;
         padding: 2rem;
-    }
-
-    .navbar-nav {
-        align-items: end;
-
-        // Tighten spacing between nav items on mobile
-        // .nav-item{
-            // margin-bottom: 1rem; 
-        // }
     }
 
     nav ul {
