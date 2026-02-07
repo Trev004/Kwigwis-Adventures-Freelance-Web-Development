@@ -181,6 +181,43 @@ h2 {
   background-color: #5a84ab;
 }
 
+.masonry-gallery-small-section {
+  margin: 3rem auto;
+  max-width: 80vw;
+  padding: 0.5rem;
+  background-color: #f9f9f9;
+}
+
+.masonry-gallery-small {
+  -moz-column-count: 2;
+       column-count: 2;
+  -moz-column-gap: 1rem;
+       column-gap: 1rem;
+}
+.masonry-gallery-small img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  display: block;
+  -moz-column-break-inside: avoid;
+       break-inside: avoid;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.3);
+}
+.masonry-gallery-small img:hover {
+  transform: scale(1.25);
+  transition: transform 0.6s ease;
+}
+@media (max-width: 768px) {
+  .masonry-gallery-small {
+    -moz-column-count: 1;
+         column-count: 1;
+  }
+  .masonry-gallery-small img:hover {
+    transform: scale(1.25);
+    transition: transform 0.3s ease;
+  }
+}
+
 .custom-hero {
   width: 100%;
   max-width: none;
@@ -244,43 +281,6 @@ h2 {
 .simple-inline-portrait:hover {
   transform: scale(1.05);
   transition: transform 0.3s ease;
-}
-
-.about-boat-gallery-section {
-  margin: 3rem auto;
-  max-width: 80vw;
-  padding: 0.5rem;
-  background-color: #f9f9f9;
-}
-
-.about-boat-gallery-masonry {
-  -moz-column-count: 2;
-       column-count: 2;
-  -moz-column-gap: 1rem;
-       column-gap: 1rem;
-}
-.about-boat-gallery-masonry img {
-  width: 100%;
-  margin-bottom: 1rem;
-  border-radius: 0.5rem;
-  display: block;
-  -moz-column-break-inside: avoid;
-       break-inside: avoid;
-  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.3);
-}
-.about-boat-gallery-masonry img:hover {
-  transform: scale(1.25);
-  transition: transform 0.6s ease;
-}
-@media (max-width: 768px) {
-  .about-boat-gallery-masonry {
-    -moz-column-count: 1;
-         column-count: 1;
-  }
-  .about-boat-gallery-masonry img:hover {
-    transform: scale(1.25);
-    transition: transform 0.3s ease;
-  }
 }
 
 .gallery-intro-heading {
