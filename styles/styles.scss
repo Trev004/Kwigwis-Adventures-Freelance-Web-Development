@@ -63,6 +63,13 @@ body {
     background-color: $Background-Color;
     color: $Main-Text-Color;
 }
+main {
+    padding: 2rem 0rem 2rem 0;
+    width: 50%;
+    max-width: 90rem;
+    margin: 0 auto;
+    
+}
 /* #endregion Base Styles & Resets */
 
 // 
@@ -171,14 +178,6 @@ nav {
 //
 // Main Content
 //
-
-main {
-    padding: 2rem 10rem 2rem 0;
-    width: 50%;
-    max-width: 90rem;
-    margin: 0 auto;
-    
-}
 
 section {
     margin-bottom: 2rem;

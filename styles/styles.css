@@ -48,6 +48,13 @@ body {
   color: #333;
 }
 
+main {
+  padding: 2rem 0rem 2rem 0;
+  width: 50%;
+  max-width: 90rem;
+  margin: 0 auto;
+}
+
 /* #endregion Base Styles & Resets */
 a:focus-visible, button:focus-visible {
   outline: 3px solid #007bff;
@@ -123,13 +130,6 @@ nav a {
 }
 nav a:hover, nav a:focus {
   text-decoration: underline;
-}
-
-main {
-  padding: 2rem 10rem 2rem 0;
-  width: 50%;
-  max-width: 90rem;
-  margin: 0 auto;
 }
 
 section {
